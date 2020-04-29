@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 base = { git = "https://github.com/thmadong/test-rust-a.git", version = "0.1.0" }
+# base = { git = "https://github.com/thmadong/test-rust-b.git", version = "0.1.0" }
